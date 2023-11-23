@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil..🥇
 
-Meu nome é Eduardo h. dde oliveira.
+Meu nome é Eduardo h. de oliveira.
 
 - Ultilizo a platatafroma para aprender sobre programação.
 - Estou me desenvolvendo nas linguagens JavaScript, HTML e CSSS
